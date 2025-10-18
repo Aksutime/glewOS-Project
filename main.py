@@ -63,6 +63,6 @@ time.sleep(2)
 os.system("clear")
 print("glewOS Project")
 print("glewOS Isnt Available Yet")
-print("Go To:")
-print("\x1b]8;;http://example.com\x1b\\Ctrl+Click here\x1b]8;;\x1b\\")
+print("glewOS Project Github Page:")
+print("https://github.com/Aksutime/glewOS-Project")
 
